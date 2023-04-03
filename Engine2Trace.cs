@@ -11,7 +11,7 @@
             return false;
         }
 
-        public virtual float DidHitEntity(int PlayerInde, Vector2 start, Vector2 end)
+        public virtual float DidHitEntity(int PlayerIndex, Vector2 start, Vector2 end)
         {
             return 0;
         }
